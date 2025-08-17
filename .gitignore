@@ -1,0 +1,3 @@
+node_modules
+dist
+# NE PAS ignorer docs/ (déployé par GitHub Pages)
